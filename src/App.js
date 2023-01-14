@@ -1,5 +1,5 @@
 import React from 'react';
-import Calculator from './components/calculator.js';
+import Calculator from './components/Calculator';
 
 class App extends React.Component {
   render() {
