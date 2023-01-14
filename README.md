@@ -1,50 +1,143 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Math Magicians
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-> It is a website for all fans of mathematics. It is a Single Page App (SPA) 
-that allows users to make simple calculations, read a random math-related quote.
+  <h3><b>Math Magician App </b></h3>
 
-![screenshot](./bkg1.png)
-<!--![screenshot](./bkg2.png)
-![screenshot](./bkg3.png) -->
+</div>
 
-Additional description about the project and its features.
+<!-- TABLE OF CONTENTS -->
 
-## Built With
+# 📗 Table of Contents
 
-- Major languages: JavaScript REACT, HTML&CSS
-- Frameworks
-- Technologies used
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-## Live Demo
+<!-- PROJECT DESCRIPTION -->
 
-[In construction]()
+# 📖 [Math magician] <a name="about-project"></a>
 
+> Describe your project in 1 or 2 sentences.
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**[Math magician]** > It is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations, read a random math-related quote.
 
 
-To get a local copy up and running follow these simple example steps.
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Technologies</summary>
+  <ul>
+    <li><a href="">NPM</a></li>
+		<li><a href="">GIT</a></li>
+		<li><a href="https://www.github.com/">GitHub</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Framework</summary>
+  <ul>
+    <li><a href="https://ReactJs.com/">React js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Languages</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">JavaScript</a></li>
+		<li><a href="https://www.postgresql.org/">HTML&CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[key_feature_1Make simple calculation]**
+- **[Read a random math-related quote]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [will be available soon](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+
+In order to run this project you need:
+
 npm/yarn installed
 
 ### Setup
-clone the repo: <code>git clone git@github.com:Marcraphael12/Marc-the-magician.git</code><br>
-jump to the active branch: <code>git checkout setup-react</code><br>
+
+Clone this repository to your desired folder:
+
+clone the repo: <code>git clone git@github.com:Marcraphael12/Math_magician.git</code><br>
+jump to the active branch: <code>git checkout [branch name]</code><br>
+
 ### Install
+
+Install this project with:
+
 in the terminal, run: <code>npm install</code> or <code>npm i</code>
+
+
 ### Usage
-now run <code>npm start</code> to start the app
+
+To run the project, execute the following command:
+<code>npm start</code>
+
 ### Run tests
-Author only
 
+To run tests, run the following command:
+<code>npm run test</code>
 
-## Authors
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 
 👤 **Marc Raphael**
 
@@ -52,22 +145,56 @@ Author only
 - Twitter: [@Marcraphael20](https://twitter.com/MarcRaphael20)
 - LinkedIn: [Marc raphael](http://www.linkedin.com/in/marc-raphael-326039204)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+> Write a message to encourage readers to support your project
 
-## 📝 License
+If you like this project...
 
-This project is [MIT](./MIT.md) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Microverse for the opportunity
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
