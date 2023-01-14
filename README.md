@@ -2,24 +2,23 @@
 
 # Math Magicians
 
-> It is a website for all fans of mathematics. It is a Single Page App (SPA) 
-that allows users to make simple calculations, read a random math-related quote.
+> It is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations, read a random math-related quote.
 
 ![screenshot](./bkg1.png)
-<!--![screenshot](./bkg2.png)
-![screenshot](./bkg3.png) -->
+![screenshot](./bkg2.png)
+![screenshot](./bkg3.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages: JavaScript REACT, HTML&CSS
-- Frameworks
-- Technologies used
+- Major languages: JavaScript , HTML&CSS
+- Frameworks: React
+- Technologies used: VS code, Git, Github
 
 ## Live Demo
 
-[In construction]()
+[Live Demo Link](https://marc-the-magician.herokuapp.com/)
 
 
 ## Getting Started
@@ -34,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 npm/yarn installed
 
 ### Setup
-clone the repo: <code>git clone git@github.com:Marcraphael12/Marc-the-magician.git</code><br>
+clone the repo: <code>git clone git@github.com:Marcraphael12/Math_magician.git</code><br>
 jump to the active branch: <code>git checkout setup-react</code><br>
 ### Install
 in the terminal, run: <code>npm install</code> or <code>npm i</code>
