@@ -17,7 +17,7 @@ const buttons = [
   '+',
   '0',
   '.',
-  '='
+  '=',
 ];
 
 export default buttons;
