@@ -29,3 +29,12 @@ function Pad() {
     </div>
   );
 }
+
+class Calculator extends React.Component {
+  render() {
+    return (
+      <Pad />
+    );
+  }
+}
+export default Calculator;
