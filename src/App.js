@@ -9,7 +9,12 @@ import Home from './components/Pages/Home';
 
 const App = () => (
   <>
-    <Calculator />
+    <Header />
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/calculator" element={<Calculator />} />
+      <Route path="/quote" element={<Quote />} />
+    </Routes>
   </>
 );
 
