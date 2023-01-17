@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 const Header = () => (
-  <div>
+  <div className="Header">
     <h1>Math Magicians</h1>
 
     <nav>
