@@ -1,3 +1,5 @@
+import 'quotes.scss';
+
 const Quote = () => (
   <div className="Quote">
     <h2>
