@@ -1,6 +1,6 @@
 /* eslint-disable max-len */
 import React, { useState } from 'react';
-import './Calculator.css';
+import './Calculator.scss';
 
 // Logic components
 import calculate from './Logic/calculate';
