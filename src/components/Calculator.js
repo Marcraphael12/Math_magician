@@ -29,8 +29,12 @@ const Calculator = () => {
 
   // Give the class name 'different' to the buttons that are not numbers accordingly to the css rules
   function giveClassName(btn) {
-    if (btn === '+' || btn === 'x' || btn === '-' || btn === '÷' || btn === '=') {
+    if (btn === '=') {
       return 'different';
+    }
+
+    if (btn === '+' || btn === 'x' || btn === '-' || btn === '÷') {
+      return 'signes';
     }
     if (btn === '0') {
       return 'zero';
@@ -40,10 +44,10 @@ const Calculator = () => {
 
   return (
     <div className="main">
+      <div className="screen">
+        <h3 className="">{result}</h3>
+      </div>
       <ul className="calc">
-        <li className="screen">
-          <h3 className="">{result}</h3>
-        </li>
         {buttons.map((btn) => ( // Map the buttons list
           <li className={`pad same ${giveClassName(btn)}`} key={btn}>
             <button key={btn} onClick={handleClick} type="button">
