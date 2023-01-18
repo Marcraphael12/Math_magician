@@ -8,10 +8,39 @@
   color: #7f9096;
   border-bottom-right-radius: 50px;
   border-top-left-radius: 50px;
+
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
   padding: 0 25px;
 
   >h1 {
     font-size: 35px;
     letter-spacing: 2px;
+  }
+
+  >nav {
+    display: flex;
+
+    >ul {
+      display: flex;
+
+      >li {
+        margin-right: 20px;
+        
+        >a {
+          color: #7956b0;
+          font-size: 18px;
+          font-weight: 700;
+
+          &:hover {
+            color: #a161f7;
+          }
+        }
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
   }
 }
