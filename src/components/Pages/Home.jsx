@@ -1,3 +1,5 @@
+import './home.scss';
+
 const Home = () => (
   <div className="Home">
     <h1>Welcome to the Math magic app</h1>
