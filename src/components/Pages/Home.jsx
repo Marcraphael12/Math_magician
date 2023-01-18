@@ -2,10 +2,9 @@ import './home.scss';
 
 const Home = () => (
   <div className="Home">
-    <h1>Welcome to the Math magic app</h1>
+    <h2>Welcome to the Math magic app</h2>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      Not everyone can be a mathematician you know, but everyone can enjoy a mathematical ☺️
     </p>
   </div>
 );
