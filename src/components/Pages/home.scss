@@ -1,0 +1,23 @@
+.Home {
+  width: 100%;
+  height: 100%;
+
+  background-image: url(./math_magician.png);
+  background-size: 50% 80%;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+
+  padding: 20px 10px;
+
+  >h2 {
+    color: #7f9096;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+
+  >p {
+    color: #ebebeb;
+    max-width: 350px;
+  }
+}
