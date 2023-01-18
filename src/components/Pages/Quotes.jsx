@@ -1,4 +1,4 @@
-import 'quotes.scss';
+import './quotes.scss';
 
 const Quote = () => (
   <div className="Quote">
